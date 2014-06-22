@@ -160,7 +160,7 @@ shinyServer(function(input, output) {
            <li><a href='http://en.wikipedia.org/wiki/Mortality_rate'>Rate of number of deaths</a> within the amount of population in Barcelona, corresponding to the same age groups (TX01_14,TX15_44,TX45_74,TX75_XX,TXTOTAL)</li>
            <li><a href='http://en.wikipedia.org/wiki/Confidence_interval'>Confidence Interval (IC95)</a></li>
            <li>Comparative Mortality Ratio (RMC)</li>
-           <li><a href='http://en.wikipedia.org/wiki/Mortality_rate'>Standardized mortality rate</a>ponderated with the population of Barcelona in the year 1996 (TSTDTOTAL)</li>
+           <li><a href='http://en.wikipedia.org/wiki/Mortality_rate'>Standardized mortality rate </a>balanced with the population of Barcelona in the year 1996 (TSTDTOTAL)</li>
            </ol>
            </h5>
            ")
@@ -185,7 +185,7 @@ shinyServer(function(input, output) {
            <li>Comparative Mortality Ratio (RMC)</li>
            <li>Percent of number of deaths within the Cause of death (PCTTOTAL)</li>
            <li><a href='http://en.wikipedia.org/wiki/Mortality_rate'>Rate of number of deaths</a> within the amount of population in Barcelona (TXOTAL)</li>
-           <li><a href='http://en.wikipedia.org/wiki/Mortality_rate'>Standardized mortality rate</a>ponderated with the population of Barcelona in the year 1996 (TSTDTOTAL)    </li>
+           <li><a href='http://en.wikipedia.org/wiki/Mortality_rate'>Standardized mortality rate </a>balanced with the population of Barcelona in the year 1996 (TSTDTOTAL)    </li>
            </ol>
            </h5>
            ")
